@@ -1,6 +1,6 @@
 # View
 
-link web: (https://nielskz.github.io/angularpage)
+Link web: [Web Page](https://nielskz.github.io/angularpage) v.1.0.0
 
 # Page
 
